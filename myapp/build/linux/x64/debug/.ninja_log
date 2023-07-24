@@ -1,0 +1,80 @@
+# ninja log v5
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/libflutter_linux_gtk.so	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_value.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_view.h	8e445694cce90410
+0	16216	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8e445694cce90410
+0	16216	0	flutter/_phony_	8e445694cce90410
+16217	17352	1689945463213413138	CMakeFiles/myapp.dir/flutter/generated_plugin_registrant.cc.o	cf4006c21ee2a44c
+16216	17391	1689945463253413407	CMakeFiles/myapp.dir/main.cc.o	a0331329617e2717
+16217	17484	1689945463349414054	CMakeFiles/myapp.dir/my_application.cc.o	8d5dd1fa6d5aac19
+17484	17700	1689945463569415536	intermediates_do_not_run/myapp	ca6019a3119ffc90
+17700	17876	0	CMakeFiles/install.util	752b0c9b2eb33b52
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/libflutter_linux_gtk.so	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_value.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_view.h	8e445694cce90410
+68	5788	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8e445694cce90410
+68	5788	0	flutter/_phony_	8e445694cce90410
+5789	7737	1689999211415966136	CMakeFiles/myapp.dir/flutter/generated_plugin_registrant.cc.o	cf4006c21ee2a44c
+5789	7820	1689999211519965008	CMakeFiles/myapp.dir/my_application.cc.o	8d5dd1fa6d5aac19
+7820	8306	1689999212027959534	intermediates_do_not_run/myapp	773202adb1217d55
+8306	8521	0	CMakeFiles/install.util	752b0c9b2eb33b52
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/libflutter_linux_gtk.so	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_value.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/fl_view.h	8e445694cce90410
+67	5513	0	/home/abid/Desktop/New Folder/myapp/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8e445694cce90410
+67	5513	0	flutter/_phony_	8e445694cce90410
+5514	7363	1690186041769527235	CMakeFiles/myapp.dir/flutter/generated_plugin_registrant.cc.o	cf4006c21ee2a44c
+5514	7417	1690186041829527637	CMakeFiles/myapp.dir/my_application.cc.o	8d5dd1fa6d5aac19
+7417	7773	1690186042189530047	intermediates_do_not_run/myapp	773202adb1217d55
+7773	7961	0	CMakeFiles/install.util	752b0c9b2eb33b52

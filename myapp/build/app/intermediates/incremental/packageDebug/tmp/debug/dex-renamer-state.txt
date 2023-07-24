@@ -1,0 +1,4 @@
+#Mon Jul 24 18:54:58 IST 2023
+base.0=/home/abid/Desktop/New Folder/myapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
