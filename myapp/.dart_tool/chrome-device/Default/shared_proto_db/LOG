@@ -1,2 +1,4 @@
-2023/07/23-12:33:41.930 3961 Creating DB /tmp/flutter_tools.ETXXHD/flutter_tools_chrome_device.KOHTIV/Default/shared_proto_db since it was missing.
-2023/07/23-12:33:41.935 3961 Reusing MANIFEST /tmp/flutter_tools.ETXXHD/flutter_tools_chrome_device.KOHTIV/Default/shared_proto_db/MANIFEST-000001
+2023/07/26-21:11:06.377 e795 Reusing MANIFEST /tmp/flutter_tools.XZAPUT/flutter_tools_chrome_device.FKHKGU/Default/shared_proto_db/MANIFEST-000001
+2023/07/26-21:11:06.377 e795 Recovering log #4
+2023/07/26-21:11:06.377 e795 Reusing old log /tmp/flutter_tools.XZAPUT/flutter_tools_chrome_device.FKHKGU/Default/shared_proto_db/000004.log 
+2023/07/26-21:11:06.377 e795 Delete type=0 #3

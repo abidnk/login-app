@@ -1,2 +1,3 @@
-2023/07/23-12:33:41.436 3966 Creating DB /tmp/flutter_tools.ETXXHD/flutter_tools_chrome_device.KOHTIV/Default/Sync Data/LevelDB since it was missing.
-2023/07/23-12:33:41.446 3966 Reusing MANIFEST /tmp/flutter_tools.ETXXHD/flutter_tools_chrome_device.KOHTIV/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/07/26-21:11:06.209 e795 Reusing MANIFEST /tmp/flutter_tools.XZAPUT/flutter_tools_chrome_device.FKHKGU/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/07/26-21:11:06.209 e795 Recovering log #3
+2023/07/26-21:11:06.209 e795 Reusing old log /tmp/flutter_tools.XZAPUT/flutter_tools_chrome_device.FKHKGU/Default/Sync Data/LevelDB/000003.log 

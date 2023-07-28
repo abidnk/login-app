@@ -4,14 +4,15 @@ import 'package:flutter/material.dart';
 import 'package:myapp/screen/login.dart';
 
 class screenhome extends StatelessWidget {
-  const screenhome({super.key});
+  screenhome({super.key, });
 
+  //final User;
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text("CONTACT DETAILS"),
+          title: Text("User"),
           actions: [
             IconButton(
                 onPressed: () {
